@@ -19,4 +19,3 @@ function sayHiToHeadphonedRoommate(string){
         return "I would love to!";
     }
 }
-console.log (sayHiToGrandma("string"))
